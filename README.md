@@ -27,16 +27,16 @@ It provides an attractive frontend for fitness enthusiasts to explore services, 
 
 Fitness_Coach/
 │
-├── index.html # Home page
-├── about.html # About coach and services
-├── courses.html # List of available fitness courses
-├── pricing.html # Membership and pricing details
-├── gallery.html # Fitness image gallery
-├── blog.html # Blog/articles page
-├── main.html # Central/main page
-├── contact.html # Contact form page
-├── contact_process.php # PHP script to handle contact form
-└── README.md # Project documentation
+├── index.html # Home page      
+├── about.html # About coach and services     
+├── courses.html # List of available fitness courses    
+├── pricing.html # Membership and pricing details    
+├── gallery.html # Fitness image gallery     
+├── blog.html # Blog/articles page    
+├── main.html # Central/main page    
+├── contact.html # Contact form page   
+├── contact_process.php # PHP script to handle contact form   
+└── README.md # Project documentation    
 
 
 
