@@ -59,7 +59,7 @@ Fitness_Coach/
      ```bash
      http://localhost/Fitness_Coach/index.html
 
-
+[Fitness Coach](https://fitness-portfolio8.netlify.app/)
 -----
 
 ## 🛠️ Technologies Used
